@@ -7,5 +7,5 @@ console.log('The value of num is: ' + num);
 
 //3.Reassign a value to a variable
 let text = 'hello';
-text = 'bye';
+text = "bye";
 console.log(text);
